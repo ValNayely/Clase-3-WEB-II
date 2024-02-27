@@ -1,0 +1,32 @@
+*
+{
+    font-family: Verdana;
+    margin: 25px;
+}
+body
+{
+    background-color: antiquewhite;
+}
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    border-color: crimson;
+    color: gold;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration:underline ;
+}
+p
+{
+    color: chocolate;
+    text-align: justify;
+    border-radius: 25px;
+    border-style: solid;
+    padding: 10px;
+}
+img
+{
+    width: 45%;
+}
